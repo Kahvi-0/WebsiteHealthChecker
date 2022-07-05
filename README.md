@@ -1,2 +1,2 @@
-# WebsiteScanHealthCheck
+# WebsiteHealthChecker
 Website scan health checker
